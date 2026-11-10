@@ -1,0 +1,31 @@
+{
+  "project": "Voice Booking",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 294886,
+      "sha256": "b98474a4db86ca1dc3c36ca6931a5d0eeb01c4eeacc5c107bcb8a1cb4b08fb75"
+    },
+    {
+      "path": "media/walkthrough.webm",
+      "bytes": 2598435,
+      "sha256": "f2b73ace4aedfbf52d72144cac9087efecb6555fbcfb2466f83a857e67bd85f5"
+    },
+    {
+      "path": "media/spoken-reply-1.mp3",
+      "bytes": 146746,
+      "sha256": "18b9e5578d0e3947b0623454d033cfe871c9a102d8121db031252376f7212380"
+    },
+    {
+      "path": "media/spoken-reply-2.mp3",
+      "bytes": 176421,
+      "sha256": "8d6300ec9e16e5ca20aae3e6e41dd3cc14b1ddf0ba3211ef22621af2cf528b17"
+    },
+    {
+      "path": "media/spoken-reply-3.mp3",
+      "bytes": 196483,
+      "sha256": "bcf544b5a7b89abd562e5d33b7de3cf7238414574f05ce85cc06a68ef48fc9c1"
+    }
+  ]
+}
