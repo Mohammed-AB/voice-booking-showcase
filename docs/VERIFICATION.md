@@ -4,11 +4,11 @@ Review date: **10 November 2026**.
 
 ## Current mode
 
-A recorded real speech-to-text, booking and spoken-response journey over a fictional calendar. HTTP push-to-talk is supported; this is not a claim of a completed WebRTC call deployment.
+Real speech providers tested with synthetic English audio over a fictional calendar. The recorded journey includes transcription, booking and spoken replies. HTTP push-to-talk is supported; a completed WebRTC deployment is not claimed.
 
 ## Observed checks
 
-- Recorded spoken request, spoken time correction and explicit confirmation, with a matching persisted calendar entry.
+- Recorded synthetic spoken request, time correction and explicit confirmation, with a matching persisted calendar entry.
 - Independent transcription checks of the generated replies, including the final booking reference.
 - Typed interaction remains available when microphone or live provider access is unavailable.
 - 20 unit, 15 database and eight browser checks passed; both builds passed.

@@ -1,6 +1,6 @@
 # Voice Booking: guided demonstration
 
-A recorded real speech-to-text, booking and spoken-response journey over a fictional calendar. HTTP push-to-talk is supported; this is not a claim of a completed WebRTC call deployment.
+Real speech providers tested with synthetic English audio over a fictional calendar. The recorded journey includes transcription, booking and spoken replies. HTTP push-to-talk is supported; a completed WebRTC deployment is not claimed.
 
 ## A focused walkthrough
 

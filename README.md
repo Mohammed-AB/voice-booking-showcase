@@ -14,7 +14,7 @@ Built by **Mohammed Abumtary** · TypeScript · React · PostgreSQL · speech tr
 
 Speak or use a sample → inspect the interpretation → confirm a sample booking.
 
-A recorded real speech-to-text, booking and spoken-response journey over a fictional calendar. HTTP push-to-talk is supported; this is not a claim of a completed WebRTC call deployment.
+Real speech providers tested with synthetic English audio over a fictional calendar. The recorded journey includes transcription, booking and spoken replies. HTTP push-to-talk is supported; a completed WebRTC deployment is not claimed.
 
 ## Where the engineering matters
 
@@ -32,7 +32,7 @@ A discovered spoken-reference mismatch led to explicit digit pronunciation, then
 
 ## Verified in the demonstration
 
-- Recorded spoken request, spoken time correction and explicit confirmation, with a matching persisted calendar entry.
+- Recorded synthetic spoken request, time correction and explicit confirmation, with a matching persisted calendar entry.
 - Independent transcription checks of the generated replies, including the final booking reference.
 - Typed interaction remains available when microphone or live provider access is unavailable.
 - 20 unit, 15 database and eight browser checks passed; both builds passed.

@@ -38,6 +38,6 @@ A discovered spoken-reference mismatch led to explicit digit pronunciation, then
 
 ## Verification boundary
 
-Recorded spoken request, spoken time correction and explicit confirmation, with a matching persisted calendar entry. Independent transcription checks of the generated replies, including the final booking reference. Typed interaction remains available when microphone or live provider access is unavailable. 20 unit, 15 database and eight browser checks passed; both builds passed.
+Recorded synthetic spoken request, time correction and explicit confirmation, with a matching persisted calendar entry. Independent transcription checks of the generated replies, including the final booking reference. Typed interaction remains available when microphone or live provider access is unavailable. 20 unit, 15 database and eight browser checks passed; both builds passed.
 
 Fictional bookings only. Live microphone capture depends on browser permission and available allowance. Telephony, physical-device audio and a production LiveKit deployment are not established by this recording.
